@@ -1,5 +1,5 @@
 # algorithm 02
-# Complete the simpleArraySum function and It must return the sum of the array elements as an integer
+# Complete the simpleArraySum function and it must return the sum of the array elements as an integer
 # The code starts here:
 
 import numpy as np
@@ -15,7 +15,7 @@ def simpleArraySum ():
     for i in range (0, n):
        sum_array = np.sum (A)
     print (sum_array)
-    
+
 # Calling the function
 simpleArraySum ()
     
